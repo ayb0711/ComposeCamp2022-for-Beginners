@@ -41,7 +41,7 @@ class MainActivity : ComponentActivity() {
         setContent { }
     }
 }
-
+//커밋 체ㅋㅡ
 // 7. 텍스트 정렬 및 패딩 추가
 @Composable
 fun BirthdayGreetingWithText(message: String, from: String) {
